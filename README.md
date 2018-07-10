@@ -9,8 +9,3 @@ This repository contains examples of [RDataFrame](https://root.cern/doc/master/c
 
 ## Running a Notebook Cell
 In order to run a notebook cell, the combination of keys to press is *shift+enter*, in case you are not familiar with this interface!
-
-## The examples
-- <a href="DimuonAnalysis.ipynb">Dimuon analysis in C++</a>
-- <a href="DimuonAnalysis_Py.ipynb">Dimuon analysis in Python</a>
-
