@@ -12,5 +12,5 @@ In order to run a notebook cell, the combination of keys to press is *shift+ente
 
 ## The examples
 - [Dimuon analysis in C++](DimuonAnalysis.ipynb)
-- [Dimuon analysis in Python](DimuonAnalysis_py.ipynb)
+- [Dimuon analysis in Python](DimuonAnalysis_Py.ipynb)
 
