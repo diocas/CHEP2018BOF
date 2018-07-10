@@ -1,5 +1,16 @@
-# CHEP2018 Future of Data Analysis in ROOT BOF: Hands-On Tutorial
-These notebooks are meant to support the CHEP2018 Future of Data Analysis in ROOT: https://indico.cern.ch/event/743070
+# CHEP BOF: The Present and Future of Data Analysis in ROOT
+<hr style="border-top-width: 4px; border-top-color: #34609b;">
+Welocme to the examples of the of the ["CHEP2018 BOF: The Present and Future of Data Analysis in ROOT"](https://indico.cern.ch/event/743070/)
 
-Copyright CERN, 2018
-Enrico Guiraud, Danilo Piparo, Enric Tejedor
+## Objectives
+This repository contains examples of [RDataFrame](https://root.cern/doc/master/classROOT_1_1RDataFrame.html) both in C++ and Python: have fun!
+
+**Warning**: remember to configure your SWAN session with the "Bleeding Edge" or "93" software stack
+
+## Running a Notebook Cell
+In order to run a notebook cell, the combination of keys to press is *shift+enter*, in case you are not familiar with this interface!
+
+## The examples
+- [Dimuon analysis in C++](DimuonAnalysis.ipynb)
+- [Dimuon analysis in Python](DimuonAnalysis.ipynb)
+
