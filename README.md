@@ -7,3 +7,8 @@ This repository contains examples of [RDataFrame](https://root.cern/doc/master/c
 
 ## Running a Notebook Cell
 In order to run a notebook cell, the combination of keys to press is *shift+enter*, in case you are not familiar with this interface!
+
+## Try the following notebooks
+
+* [Analysis of an open dataset with RDataFrame](DimuonAnalysis.ipynb)
+* [Analysis of an open dataset with RDataFrame in Python](DimuonAnalysis_Py.ipynb)
